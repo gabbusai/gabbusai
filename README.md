@@ -1,5 +1,5 @@
 # 💫 About Me:
-ABOUT ME:<br>🗿 Dayrit, John Gabriel<br>🏫 College: Systems Plus College Foundation<br>⭐ Aspiring Developer For Multiple Platforms ⭐ <br>💻 Front End Web : React <br>💻 Back End : Laravel<br>📱 Mobile : React Native (expo)<br>
+🗿 Dayrit, John Gabriel<br>🏫 College: Systems Plus College Foundation<br>⭐ Aspiring Developer For Multiple Platforms ⭐ <br>💻 Front End Web : React <br>💻 Back End : Laravel<br>📱 Mobile : React Native (expo)<br>
 
 
 ## 🌐 Socials:
