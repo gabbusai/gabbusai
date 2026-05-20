@@ -1,8 +1,6 @@
 # 💫 About Me:
 <br>🗿 Dayrit, John Gabriel<br>🏫 College: Systems Plus College Foundation<br>⭐ Aspiring Developer For Multiple Platforms ⭐ <br>💻 Front End Web : React <br>💻 Back End : Laravel<br>📱 Mobile : React Native (expo)<br>
 
-# Check My Portfolio Page!
-https://gab-portfolio-kappa.vercel.app/
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Blizzen00) 
 
